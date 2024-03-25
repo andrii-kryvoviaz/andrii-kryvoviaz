@@ -1,11 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&duration=3000&pause=1000&color=2883ff&repeat=false&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;Let's+meet)](https://git.io/typing-svg)
-
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andrii-kryvoviaz.andrii-kryvoviaz)](https://github.com/andrii-kryvoviaz) [![GitHub andrii-kryvoviaz](https://img.shields.io/github/followers/andrii-kryvoviaz?label=follow&style=social)](https://github.com/andrii-kryvoviaz)
-
-
-#### Just a little bit about me
-
 ```javascript
+#! Hi there 👋
+
 const developer = {
   title: "Backend Software Engineer",
   country: "Ukraine 🇺🇦",
@@ -38,7 +33,7 @@ const developer = {
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
-<div align="left">
+<div align="center">
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=andrii-kryvoviaz&theme=github-dark-dimmed&hide_border=true&mode=weekly&card_width=650&background=161b22&ring=5c78ffde&stroke=1f2937b3&fire=905aff&sideLabels=905aff&currStreakLabel=905aff)](https://github.com/andrii-kryvoviaz)
 
