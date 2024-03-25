@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&duration=3000&pause=1000&color=2883ff&repeat=false&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;Let's+meet)](https://git.io/typing-svg)
+
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andrii-kryvoviaz.andrii-kryvoviaz)](https://github.com/andrii-kryvoviaz) [![GitHub andrii-kryvoviaz](https://img.shields.io/github/followers/andrii-kryvoviaz?label=follow&style=social)](https://github.com/andrii-kryvoviaz)
 
 
@@ -39,8 +40,8 @@ const developer = {
 
 <div align="left">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=andrii-kryvoviaz&theme=github-dark-dimmed&hide_border=true&mode=weekly&card_width=650&background=121212&ring=5c78ffde&stroke=1f2937b3&fire=905aff&sideLabels=905aff&currStreakLabel=905aff)](https://github.com/andrii-kryvoviaz)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=andrii-kryvoviaz&theme=github-dark-dimmed&hide_border=true&mode=weekly&card_width=650&background=161b22&ring=5c78ffde&stroke=1f2937b3&fire=905aff&sideLabels=905aff&currStreakLabel=905aff)](https://github.com/andrii-kryvoviaz)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrii-kryvoviaz&theme=dark&hide_border=true&hide=jinja&layout=compact&hide_title=true&bg_color=121212&text_color=bcbaba)](https://github.com/andrii-kryvoviaz) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrii-kryvoviaz&theme=dark&hide_border=true&hide=prs,issues&line_height=30&show_icons=true&icon_color=905aff8b&hide_rank=true&hide_title=true&text_bold=false&bg_color=121212&text_color=bcbaba)](https://github.com/andrii-kryvoviaz)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrii-kryvoviaz&theme=dark&hide_border=true&hide=jinja&layout=compact&hide_title=true&bg_color=161b22&text_color=bcbaba)](https://github.com/andrii-kryvoviaz) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrii-kryvoviaz&theme=dark&hide_border=true&hide=prs,issues&line_height=30&show_icons=true&icon_color=905aff8b&hide_rank=true&hide_title=true&text_bold=false&bg_color=161b22&text_color=bcbaba)](https://github.com/andrii-kryvoviaz)
 
 </div>
