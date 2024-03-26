@@ -1,36 +1,27 @@
-```javascript
-#! Hi there 👋
+<div align="center">
 
-const developer = {
-  title: "Backend Software Engineer",
-  country: "Ukraine 🇺🇦",
-  interests: {
-    backend: "Strong",
-    devops: "Medium+",
-    frontend: "Medium",
-  },
-  languages: ["English", "Ukrainian"],
-  yearsOfExperience: 10+,
-  homelabing: true,
-}
-```
+  ![Things I code with](code_with.svg)
+  
+</div>
 
-#### Things I code with
-<p>
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-121212?style=flat-square&logo=symfony&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white&labelColor" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<p align="center">
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-313131?style=flat&logo=symfony&logoColor=fff" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-119d4b?style=flat&logo=mongodb&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-0a7cff?style=flat&logo=github-actions&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-f1f1f1?style=flat&logo=ansible&logoColor=080808" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-eb3900?style=flat&logo=svelte&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-cc002d?style=flat&logo=angular&logoColor=white&labelColor" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-a91581?style=flat&logo=reactivex&logoColor=white" />
+  <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848f?style=flat&logo=electron&logoColor=white" />
+  <img alt="Capacitor" src="https://img.shields.io/badge/-Capacitor-3880ff?style=flat&logo=capacitor&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-33a49e?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
 
 <div align="center">
@@ -40,3 +31,16 @@ const developer = {
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrii-kryvoviaz&theme=dark&hide_border=true&hide=jinja&layout=compact&hide_title=true&bg_color=161b22&text_color=bcbaba)](https://github.com/andrii-kryvoviaz) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrii-kryvoviaz&theme=dark&hide_border=true&hide=prs,issues&line_height=30&show_icons=true&icon_color=905aff8b&hide_rank=true&hide_title=true&text_bold=false&bg_color=161b22&text_color=bcbaba)](https://github.com/andrii-kryvoviaz)
 
 </div>
+
+<div align="center">
+
+  ![Improve In](improve_in.svg)
+
+</div>
+
+<p align="center">
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-5c4ee6?style=flat&logo=terraform&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white" />
+</p>
