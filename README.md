@@ -1,7 +1,7 @@
 <div align="center">
 
   ![Things I code with](code_with.svg)
-  
+
 </div>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-119d4b?style=flat&logo=mongodb&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-0a7cff?style=flat&logo=github-actions&logoColor=white" />
-  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-f1f1f1?style=flat&logo=ansible&logoColor=080808" />
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-313131?style=flat&logo=ansible&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-eb3900?style=flat&logo=svelte&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-cc002d?style=flat&logo=angular&logoColor=white&labelColor" />
