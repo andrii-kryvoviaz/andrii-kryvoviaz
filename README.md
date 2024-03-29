@@ -26,8 +26,6 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=andrii-kryvoviaz&theme=github-dark-dimmed&hide_border=true&mode=weekly&card_width=650&background=161b22&ring=5c78ffde&stroke=1f2937b3&fire=905aff&sideLabels=905aff&currStreakLabel=905aff)](https://github.com/andrii-kryvoviaz)
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrii-kryvoviaz&theme=dark&hide_border=true&hide=jinja&layout=compact&hide_title=true&bg_color=161b22&text_color=bcbaba)](https://github.com/andrii-kryvoviaz) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrii-kryvoviaz&theme=dark&hide_border=true&hide=prs,issues&line_height=30&show_icons=true&icon_color=905aff8b&hide_rank=true&hide_title=true&text_bold=false&bg_color=161b22&text_color=bcbaba)](https://github.com/andrii-kryvoviaz)
 
 </div>
